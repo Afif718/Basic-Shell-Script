@@ -6,3 +6,5 @@
 
 #To make the file executable --> chmod +x fileName.sh
 
+#To run the file --> ./fileName.sh
+
